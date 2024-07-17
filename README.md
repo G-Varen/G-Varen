@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+
 - 🌱 I’m currently learning **HTML,CSS,Javascipt and React**
 
 - 💬 Ask me about **Javascript, React**
